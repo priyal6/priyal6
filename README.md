@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <img src="giphy.gif" height="300" width="500" align="right">
-
+<br/>
+<br/>
+<br/>
 
 
 🧰 I'm  a front-end developer <br/>
