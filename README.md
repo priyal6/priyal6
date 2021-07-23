@@ -1,5 +1,5 @@
 ### Hi there 👋
-👩‍💻 I’m currently learning Javascript
+👩‍💻 I’m currently learning Javascript<br />
 ⚡ Fun fact: I am  a quick learner
 
 <!--
