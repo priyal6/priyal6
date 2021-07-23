@@ -1,6 +1,7 @@
 ### Hi there 👋
+🧰 I'm  a front-end developer <br />
 👩‍💻 I’m currently learning Javascript<br />
-⚡ Fun fact: I am  a quick learner
+⚡ Fun fact: I am  a quick learner 😃
 
 <!--
 **priyal6/priyal6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
