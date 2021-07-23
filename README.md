@@ -1,5 +1,5 @@
 ### Hi there 👋
-🧰 I'm  a front-end developer <img src="giphy.gif" height="300" width="300">
+🧰 I'm  a front-end developer <img src="giphy.gif" height="300" width="500"><br/>
 👩‍💻 I’m currently learning Javascript<br />
 ⚡ Fun fact: I am  a quick learner 😃
 
