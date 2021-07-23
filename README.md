@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+### I am Priyal ⭐
 
 <img src="giphy.gif" height="300" width="500" align="right">
 <br/>
