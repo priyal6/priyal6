@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <img src="giphy.gif" height="300" width="500" align="right">
+
+
+
 🧰 I'm  a front-end developer <br/>
 👩‍💻 I’m currently learning Javascript<br />
 ⚡ Fun fact: I am  a quick learner 😃 <br/>
