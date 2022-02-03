@@ -8,7 +8,7 @@
 
 
 🧰 I'm  a front-end developer <br/>
-👩‍💻 I’m currently learning Javascript<br />
+👩‍💻 I’m currently exploring AI/ML<br />
 ⚡ Fun fact: I am  a quick learner 😃 <br/>
 
 
