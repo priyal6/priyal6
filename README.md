@@ -7,8 +7,8 @@
 <br/>
 
 
-🧰 I'm  a front-end developer <br/>
-👩‍💻 I’m currently exploring AI/ML<br />
+
+👩‍💻 Data Science enthusiast <br />
 ⚡ Fun fact: I am  a quick learner 😃 <br/>
 
 
